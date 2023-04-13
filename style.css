@@ -1,0 +1,20 @@
+h1{ background-color: rgb(46, 142, 168);
+
+}
+
+li {
+    display: inline;
+  padding: 8px;
+  background-color: #dddddd;
+  }
+  input {
+    width: 50%;
+  }
+  body {
+    background-color: rgb(40, 90, 60);
+  }
+  h1,h2,p {
+    font-family: Roboto, sans-serif;
+  }
+ h2,p .solid {border-style: solid;}
+ 
