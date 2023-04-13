@@ -11,10 +11,30 @@ li {
     width: 50%;
   }
   body {
-    background-color: rgb(40, 90, 60);
+    background-color: rgb(157, 82, 55);
   }
   h1,h2,p {
     font-family: Roboto, sans-serif;
   }
  h2,p .solid {border-style: solid;}
- 
+ div ul li {
+  list-style-type: none;
+  margin: 10;
+  padding: 10;
+  overflow: hidden;
+  background-color: #1c8ec7;
+}
+div {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+div ul li{
+  padding-left: 30px;
+  padding-right: 30px;
+  display: inline-block;
+  margin-right: -4px;
+
+}
